@@ -1,0 +1,13 @@
+simulation_file_name cavity
+max_iterations 5000
+prandtl_number 0.71
+rayleigh_number 1e4
+density 1.0
+velocity 0.0
+T_top 0.5
+T_bottom -0.5
+under_relaxation_P 0.3
+under_relaxation_U 0.95
+under_relaxation_V 0.95
+under_relaxation_T 1.0
+convergence_criteria 7e-5
